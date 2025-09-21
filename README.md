@@ -1,4 +1,4 @@
-in<img width="1024" height="1536" alt="12" src="https://github.com/user-attachments/assets/d6923023-d36e-4bd1-8562-b3368584ef9e" />
+![13](https://github.com/user-attachments/assets/744c20c3-116d-4a46-8ad9-656502fad0e7)
 
 Hi! My interest in computers started when I was kid. Seeing my older brothers tinkering their computers to get better performance in games made me passionate about making computers efficient and faster. My passion and interest drove me to study computer science at UIC where I learned different programming languages, teamwork in group projects, enhanced efficiency in algorithms, building embedded systems, etc. I am very excited to graduate in Fall 2026 and start to apply what I have learned in real world application.
 
