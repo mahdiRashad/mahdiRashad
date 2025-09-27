@@ -1,4 +1,4 @@
-<img width="900" height="641" alt="1" src="https://github.com/user-attachments/assets/036c42e3-2626-4f84-a983-108d64681076" />
+![492059501-744c20c3-116d-4a46-8ad9-656502fad0e7](https://github.com/user-attachments/assets/71a17a96-2c20-439c-825d-6294948772c6)
 
 My journey in computer science began in childhood, inspired by watching my older brothers tinker with their computers to boost gaming performance. That early curiosity grew into a passion for building efficient systems, which led me to pursue a degree in Computer Science at UIC. There, I’ve gained hands-on experience with multiple programming languages, algorithms, embedded systems, and collaborative projects. I look forward to graduating in Fall 2026 and apply my skills to real-world applications.
 
